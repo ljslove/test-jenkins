@@ -1,0 +1,12 @@
+# view AndroidManifest.xml #generated:17
+-keep class com.example.androidui.FirstActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.example.androidui.ForthActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.example.androidui.SecondActivity { <init>(...); }
+
+# view res/layout/forth_layout.xml #generated:7
+-keep class com.example.androidui.TitleLayout { <init>(...); }
+

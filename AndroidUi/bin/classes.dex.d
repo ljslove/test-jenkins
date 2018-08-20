@@ -1,0 +1,27 @@
+G:\androidcode\AndroidUi\bin\classes.dex : \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\BuildConfig.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FirstActivity$1.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FirstActivity$2.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FirstActivity$3.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FirstActivity$4$1.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FirstActivity$4$2.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FirstActivity$4.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FirstActivity$5.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FirstActivity$6.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FirstActivity.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\ForthActivity.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\Fruit.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\FruitAdapter.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\R$attr.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\R$drawable.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\R$id.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\R$layout.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\R$string.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\R$style.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\R.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\SecondActivity$1.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\SecondActivity.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\TitleLayout$1.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\TitleLayout$2.class \
+G:\androidcode\AndroidUi\bin\classes\com\example\androidui\TitleLayout.class \
+G:\androidcode\AndroidUi\bin\dexedLibs\android-support-v4-94fd941227a40353ca047e2dd6780e2c.jar \
